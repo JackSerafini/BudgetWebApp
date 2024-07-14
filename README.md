@@ -4,6 +4,6 @@ Users can share their expenses and each user can pay a different amount of money
 
 
 ## Come funziona:
-Una volta andati sull'URL dell'applicazione (usando docker: localhost:3000), comparirà il form per poter iscrivere un utente. Nel caso ci si sia già iscritti, premendo su Login comparirà il form per effettuare il login.  
+Dopo aver fatto la build attraverso docker, sarà possibile accedere all'URL dell'applicazione (usando docker: localhost:3000), comparirà il form per poter iscrivere un utente. Nel caso ci si sia già iscritti, premendo su Login comparirà il form per effettuare il login.  
 Si sarà poi rimandati alla parte budget del sito, dove è possibile visualizzare tutte le spese dove l'utente loggato ha "partecipato" (o la ha creata lui oppure compare tra gli utenti che condividono la spesa). Da questa schermata è poi possibile aggiungere nuove spese, filtrare le spese, vedere i dettagli di una determinata spesa, visualizzare i dettagli dell'utente collegato oppure passare alla parte balance.  
 In questa terza e ultima parte del sito, gli utenti potranno visualizzare il proprio bilancio relativamente ad altri utenti, e potranno anche ricercare un determinato utente per vedere le spese che hanno in comune tra di loro.
