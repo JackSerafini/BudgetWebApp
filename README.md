@@ -1,6 +1,6 @@
 # Budget Web App
-This was the final project for the university course of Web Programming. We had to implement the back-end and the front-end of an application to keep track of expenses and balances between friends and family members.  
-Users can share their expenses and each user can pay a different amount of money. The app has to then check who is in debt, and by how much, and who is owed money. It can tell who has to send money to whom to balance out said debts.  
+Questo è il progetto finale per il corso di Programmazione Web. Il compito era implementare la parte back-end e la parte front-end di un'applicazione per tenere traccia delle spese e dei bilanci tra amici.  
+Gli utenti possono condividere le proprie spese ed ogni utente può pagare una quota differente. Sarà poi l'applicazione a calcolare chi è in debito e chi è in credito, e di quanto. Inoltre, dirà all'utente chi deve mandare soldi a chi affinché i debiti vengano ripagati.
 
 
 ## Come funziona:
